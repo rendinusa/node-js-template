@@ -1,0 +1,24 @@
+{
+  "name": "aeron-start-templates",
+  "version": "1.0.0",
+  "description": "Start template for nodejs express",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rendinusa/node-js-template.git"
+  },
+  "keywords": [
+    "nodejs",
+    "api",
+    "template"
+  ],
+  "author": "rendinusa",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rendinusa/node-js-template/issues"
+  },
+  "homepage": "https://github.com/rendinusa/node-js-template#readme"
+}
